@@ -1,3 +1,7 @@
+# 1.0.3 / 2013-05-09
+
+  * correct version publish
+
 # 1.0.2 / 2013-05-09
 
   * npm requires lowercase name
