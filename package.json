@@ -1,7 +1,29 @@
 {
   "name": "isInteger-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a number is an integer",
+  "keywords": [
+    "isInteger",
+    "number",
+    "component"
+  ],
+  "homepage": "https://github.com/KenanY/isInteger",
+  "bugs": {
+    "url": "https://github.com/KenanY/isInteger/issues"
+  },
+  "author": {
+    "name": "Kenan Yildirim",
+    "email": "kenan@kenany.me",
+    "web": "http://kenany.me/"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KenanY/isInteger.git"
+  },
   "devDependencies": {
     "mocha": "*",
     "should": "*"
@@ -10,6 +32,5 @@
     "scripts": {
       "isInteger/index.js": "index.js"
     }
-  },
-  "private": true
+  }
 }
