@@ -14,7 +14,7 @@ $ component install KenanY/isInteger
 
 ### isInteger(x)
 
-Check is `x` is an integer.
+Check if `x` is an integer.
 
 ``` javascript
 isInteger(1254);
