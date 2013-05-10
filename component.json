@@ -3,7 +3,7 @@
   "repo": "KenanY/isInteger",
   "description": "Check if a number is an integer",
   "version": "1.0.0",
-  "keywords": ["isInteger"],
+  "keywords": ["isInteger", "number"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
