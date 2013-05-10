@@ -1,0 +1,15 @@
+{
+  "name": "isInteger-component",
+  "version": "1.0.0",
+  "description": "Check if a number is an integer",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "component": {
+    "scripts": {
+      "isInteger/index.js": "index.js"
+    }
+  },
+  "private": true
+}

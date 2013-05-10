@@ -1,0 +1,14 @@
+{
+  "name": "isInteger",
+  "repo": "KenanY/isInteger",
+  "description": "Check if a number is an integer",
+  "version": "1.0.0",
+  "keywords": ["isInteger"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "twitter": "@kyild"
+}
