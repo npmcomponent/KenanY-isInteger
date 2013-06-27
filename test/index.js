@@ -1,4 +1,4 @@
-var isInteger = require('..');
+var isInteger = require('../');
 var test = require('tape');
 
 test('isInteger(x)', function(t) {
