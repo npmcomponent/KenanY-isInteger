@@ -27,7 +27,7 @@
   },
   "component": {
     "scripts": {
-      "isInteger/index.js": "index.js"
+      "isInteger": "index.js"
     }
   }
 }
