@@ -4,6 +4,8 @@
 
 isInteger [component](https://github.com/component).
 
+[![Browser Support](https://ci.testling.com/KenanY/isInteger.png)](https://ci.testling.com/KenanY/isInteger)
+
 ## Installation
 
 ``` shell
