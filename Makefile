@@ -1,5 +1,5 @@
 test: build
-	@./node_modules/.bin/mocha --reporter spec --require should
+	@node test/index.js
 
 build: components index.js
 	@component build --dev
