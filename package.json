@@ -14,7 +14,7 @@
   "author": {
     "name": "Kenan Yildirim",
     "email": "kenan@kenany.me",
-    "web": "http://kenany.me/"
+    "url": "http://kenany.me/"
   },
   "main": "index.js",
   "directories": {
