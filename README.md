@@ -1,5 +1,6 @@
 # isInteger
 
+[![Build Status](https://travis-ci.org/KenanY/isInteger.png)](https://travis-ci.org/KenanY/isInteger)
 [![Dependency Status](https://gemnasium.com/KenanY/isInteger.png)](https://gemnasium.com/KenanY/isInteger)
 
 isInteger [component](https://github.com/component).
