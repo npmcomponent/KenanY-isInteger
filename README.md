@@ -8,7 +8,7 @@ isInteger [component](https://github.com/component).
 
 ## Installation
 
-``` shell
+``` bash
 $ component install KenanY/isInteger
 ```
 
@@ -25,7 +25,7 @@ isInteger(1254);
 
 ## Development
 
-``` shell
+``` bash
 $ npm install
 $ make
 ```
