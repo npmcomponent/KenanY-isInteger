@@ -1,5 +1,5 @@
 test: build
-	@node test/index.js
+	@npm test
 
 build: components index.js
 	@component build --dev

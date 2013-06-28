@@ -21,7 +21,11 @@
     "test": "test"
   },
   "repository": "https://github.com/KenanY/isInteger.git",
+  "scripts" : {
+    "test": "tap test/*.js"
+  },
   "devDependencies": {
+    "tap": "0.4.3",
     "tape": "1.0.4"
   },
   "component": {
