@@ -6,5 +6,5 @@
  * @api public
  */
 module.exports = function(x) {
-  return (x == Math.round(x));
+  return (x === Math.round(x));
 };
