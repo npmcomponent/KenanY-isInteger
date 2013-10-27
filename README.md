@@ -15,6 +15,10 @@ $ component install KenanY/isInteger
 
 ## API
 
+``` javascript
+var isInteger = require('isInteger');
+```
+
 ### isInteger(x)
 
 Check if `x` is an integer.
