@@ -1,3 +1,7 @@
+# 1.0.4 / 2013-10-27
+
+  * Use strict equality
+
 # 1.0.3 / 2013-05-09
 
   * correct version publish
