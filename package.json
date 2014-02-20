@@ -1,46 +1,11 @@
 {
-  "name": "isinteger-component",
-  "version": "1.0.4",
+  "name": "kenany-isinteger",
   "description": "Check if a number is an integer",
+  "version": "1.0.4",
   "keywords": [
     "isInteger",
-    "number",
-    "component"
+    "number"
   ],
-  "homepage": "https://github.com/KenanY/isInteger",
-  "bugs": {
-    "url": "https://github.com/KenanY/isInteger/issues"
-  },
-  "author": {
-    "name": "Kenan Yildirim",
-    "email": "kenan@kenany.me",
-    "url": "http://kenany.me/"
-  },
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "repository": "https://github.com/KenanY/isInteger.git",
-  "scripts" : {
-    "test": "tap test/*.js"
-  },
-  "devDependencies": {
-    "tap": "0.4.3",
-    "tape": "1.0.4"
-  },
-  "component": {
-    "scripts": {
-      "isInteger": "index.js"
-    }
-  },
-  "testling": {
-    "files": "test/*.js",
-    "browsers": [
-      "ie/6..latest",
-      "ff/3.6", "firefox/latest",
-      "chrome/10", "chrome/latest",
-      "safari/5.1", "safari/latest",
-      "opera/12"
-    ]
-  }
+  "dependencies": {},
+  "license": "MIT"
 }

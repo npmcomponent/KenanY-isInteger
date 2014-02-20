@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [kenany/isinteger](http://github.com/kenany/isinteger). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/kenany-isinteger`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # isInteger
 
 [![Build Status](https://travis-ci.org/KenanY/isInteger.png)](https://travis-ci.org/KenanY/isInteger)
